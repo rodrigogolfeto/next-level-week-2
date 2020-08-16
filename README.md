@@ -1,1 +1,3 @@
-# next-level-week-2
+<div align='center'>
+<img src="./.github/logo.svg" width='250'>
+</div>
